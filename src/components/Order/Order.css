@@ -1,0 +1,12 @@
+.payment {
+    margin: 0;
+    overflow: auto;
+}
+
+.payment__button_left {
+    float: left;
+}
+
+.payment__button_right {
+    float: right;
+}
